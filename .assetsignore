@@ -1,9 +1,0 @@
-.git
-.gitignore
-.assetsignore
-.wrangler
-.DS_Store
-node_modules
-wrangler.jsonc
-redirect
-README.md
