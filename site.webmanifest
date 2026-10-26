@@ -1,0 +1,16 @@
+{
+  "name": "Auralab Studio",
+  "short_name": "Auralab",
+  "description": "Studio di design e sviluppo digitale a Milano.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0414",
+  "theme_color": "#0a0414",
+  "lang": "it-IT",
+  "icons": [
+    { "src": "logo.jpeg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "logo.jpeg", "sizes": "512x512", "type": "image/jpeg" },
+    { "src": "logo.jpeg", "sizes": "any", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
